@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo(a) ao meu perfil 👋
 <div>
-- 🔭 Atualmente trabalho com beck-and<br>
+- 🔭 Atualmente trabalho com beack-and<br>
 - 🌱 Estudando Java e Python<br>
 - 🌱 Cursando Sistemas da Informaçao<br>
 - 📫 Contate-me pelo email: bernardomarcelo33@gmail.com // ou pelo linkedin: www.linkedin.com/in/marcelo-bernardo-prudêncio-6736a51a7/ <br>
