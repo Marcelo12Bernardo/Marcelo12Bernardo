@@ -4,7 +4,7 @@
 - 🌱 Estudando Java e Python<br>
 - 🌱 Cursando Sistemas da Informaçao<br>
 - 📫 Contate-me pelo email: bernardomarcelo33@gmail.com // ou pelo linkedin: www.linkedin.com/in/marcelo-bernardo-prudêncio-6736a51a7/ <br>
-- 😄 Pronouns: ele/dele<br><br><br>
+<br><br><br>
 </div>
 
 <div align="center">
