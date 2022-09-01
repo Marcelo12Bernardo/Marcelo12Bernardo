@@ -2,7 +2,8 @@
 <div>
 - 🔭 Atualmente trabalho com beack-and<br>
 - 🌱 Estudando Java e Python<br>
-- 🌱 Cursando Sistemas da Informaçao<br>
+- 🌱 Iniciante em Desenvolvimento Web<br>
+- 🌱 Aluno Trybe<br>
 - 📫 Contate-me pelo email: bernardomarcelo33@gmail.com // ou pelo linkedin: www.linkedin.com/in/marcelo-bernardo-prudêncio-6736a51a7/ <br>
 <br><br><br>
 </div>
