@@ -1,10 +1,11 @@
 ### Olá, seja bem vindo(a) ao meu perfil 👋
 <div>
-- 🔭 Atualmente trabalho com beack-and<br>
+- 🔭 Tecnico de Informatica<br>
 - 🌱 Estudando Java e Python<br>
 - 🌱 Iniciante em Desenvolvimento Web<br>
 - 🌱 Aluno Trybe<br>
-- 📫 Contate-me pelo email: bernardomarcelo33@gmail.com // ou pelo linkedin: www.linkedin.com/in/marcelo-bernardo-prudêncio-6736a51a7/ <br>
+- 🌱 Cursando Bacharel em Sistemas da Informação<br>
+- 📫 Contate-me pelo email: bernardomarcelo33@gmail.com // ou pelo linkedin: https://www.linkedin.com/in/marcelo-bernardo-p/ <br>
 <br><br><br>
 </div>
 
