@@ -41,7 +41,7 @@
             <li>20 anos</li>
             <li>Campos dos Goytacazes - RJ</li>
             <li>Formado em TI</li>
-            <li>Cursando Sistemas D Informação</li>
+            <li>Bacharel em SI</li>
           </ul>
       </td>
       <td>
